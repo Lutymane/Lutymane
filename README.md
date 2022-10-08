@@ -1,5 +1,10 @@
 ### Shalom 👋
 
+🔭 I am currently working on version 6 of zeokku.com webpage, which includes lots of stand-alone solutions:
+- declarative Three.js components for Vue - for easy composing of multipage WebGL assisted websites
+- media assets optimization pipeline - converting images and videos into modern formats and size analysis
+- GSAP directives for Vue - for ease of animating elements without writing too much code
+
 [![@luty's Holopin board](https://holopin.io/api/user/board?user=luty)](https://holopin.io/@luty)
 
 <!--
