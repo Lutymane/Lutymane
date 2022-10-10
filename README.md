@@ -1,21 +1,28 @@
 ### Shalom 👋
 
-🔭 I am currently working on version 6 of zeokku.com webpage, which includes lots of stand-alone solutions:
-- declarative Three.js components for Vue - for easy composing of multipage WebGL assisted websites
-- media assets optimization pipeline - converting images and videos into modern formats and size analysis
+⚡ I'm a developer with experience in 
+- C/++/#
+- Game development (Gamemaker)
+- Design (PS, AI, AE)
+- Javascript/HTML/CSS (Typescript/Pug/Less)
+
+🔭 I am currently working on version 6 of [zeokku.com](https://zeokku.com) webpage, which includes lots of stand-alone solutions:
+- Declarative Three.js components for Vue - for easy composing and managing of multipage WebGL assisted SPAs
+- Media assets optimization pipeline - converting images and videos into modern formats with size analysis
 - GSAP directives for Vue - for ease of animating elements without writing too much code
+
 and more...
 
 🌱 Next points of study:
-- Augmented Reality on Web
-- Unreal Engine 5+
-- Blender
+- _Augmented Reality on Web_
+- _Unreal Engine 5+_
+- _Blender_
 
 ✨ Interests:
-- Drums - escpecially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
-- Ping Pong
-- Mechanical keyboards
-- Art collecting - both physical artbooks, prints, stickers and PoS NFTs
+- _Drums_ - escpecially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
+- _Mechanical keyboards_ - I own <u>Phantom TKL</u> (aluminum case, MX browns, GMK stabs, MT3 Godspeed) and <u>kbd.fans 5 degree 60%</u> (cyan aluminum case, Kiwis, cyan C3 Equalz stabs, DSA Drifter)
+- _Art collecting_ - physical artbooks, magazines, prints, stickers and NFTs
+- _Ping Pong_
 
 [![@luty's Holopin board](https://holopin.io/api/user/board?user=luty)](https://holopin.io/@luty)
 
