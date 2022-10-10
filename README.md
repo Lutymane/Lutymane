@@ -5,6 +5,10 @@
 - media assets optimization pipeline - converting images and videos into modern formats and size analysis
 - GSAP directives for Vue - for ease of animating elements without writing too much code
 
+🌱 Next points of study:
+- Augmented Reality on Web
+- Unreal Engine 5+
+
 [![@luty's Holopin board](https://holopin.io/api/user/board?user=luty)](https://holopin.io/@luty)
 
 <!--
