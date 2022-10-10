@@ -1,10 +1,10 @@
 ### Shalom 👋
 
 ⚡ I'm a developer with experience in 
-- C/++/#
-- Game development (Gamemaker)
-- Design (PS, AI, AE)
-- Javascript/HTML/CSS (Typescript/Pug/Less)
+- _C/++/#_
+- _Game development (Gamemaker)_
+- _Design (PS, AI, AE)_
+- _Javascript/HTML/CSS (Typescript/Pug/Less)_
 
 🔭 I am currently working on version 6 of [zeokku.com](https://zeokku.com) webpage, which includes lots of stand-alone solutions:
 - _Declarative Three.js components for Vue_ - for easy composing and managing of multipage WebGL assisted SPAs
