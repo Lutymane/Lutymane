@@ -7,9 +7,9 @@
 - Javascript/HTML/CSS (Typescript/Pug/Less)
 
 🔭 I am currently working on version 6 of [zeokku.com](https://zeokku.com) webpage, which includes lots of stand-alone solutions:
-- Declarative Three.js components for Vue - for easy composing and managing of multipage WebGL assisted SPAs
-- Media assets optimization pipeline - converting images and videos into modern formats with size analysis
-- GSAP directives for Vue - for ease of animating elements without writing too much code
+- _Declarative Three.js components for Vue_ - for easy composing and managing of multipage WebGL assisted SPAs
+- _Media assets optimization pipeline_ - converting images and videos into modern formats with size analysis
+- _GSAP directives for Vue_ - for ease of animating elements without writing too much code
 
 and more...
 
@@ -19,7 +19,7 @@ and more...
 - _Blender_
 
 ✨ Interests:
-- _Drums_ - escpecially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
+- _Drums_ - especially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
 - _Mechanical keyboards_ - I own <u>Phantom TKL</u> (aluminum case, MX browns, GMK stabs, MT3 Godspeed) and <u>kbd.fans 5 degree 60%</u> (cyan aluminum case, Kiwis, cyan C3 Equalz stabs, DSA Drifter)
 - _Art collecting_ - physical artbooks, magazines, prints, stickers and NFTs
 - _Ping Pong_
