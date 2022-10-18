@@ -7,6 +7,7 @@
 - _Javascript/HTML/CSS (Typescript/Pug/Less)_
 - _Build tools (Closure Compiler, Gulp, Webpack, Vite)_
 - _Frameworks & Libs (Vue 3, React Native)_
+- _[Occasional security research](https://hackerone.com/lt_1/?type=user)_
 
 🔭 I am currently working on the new upcoming version 6 of my [zeokku.com](https://zeokku.com) webpage, which also includes lots of stand-alone solutions I had to develop:
 - _Declarative Three.js components for Vue_ - for easy composing and managing of multipage WebGL assisted SPAs
