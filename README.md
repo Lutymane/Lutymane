@@ -6,7 +6,7 @@
 - _Design (PS, AI, AE)_
 - _Javascript/HTML/CSS (Typescript/Pug/Less)_
 - _Build tools (Closure Compiler, Gulp, Webpack, Vite)_
-- _Frameworks & Libs (Vue 3, React Native)_
+- _Frameworks & Libs (Vue 3, React Native, Three.js, GSAP)_
 - _[Occasional security research](https://hackerone.com/lt_1/?type=user)_
 - _Cryptography (openssl, wolfssl, NIST Post-quantum)_
 
