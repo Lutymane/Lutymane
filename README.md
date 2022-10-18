@@ -5,6 +5,7 @@
 - _Game development (Gamemaker)_
 - _Design (PS, AI, AE)_
 - _Javascript/HTML/CSS (Typescript/Pug/Less)_
+- _Build tools (Closure Compiler, Gulp, Webpack, Vite)_
 
 🔭 I am currently working on version 6 of [zeokku.com](https://zeokku.com) webpage, which includes lots of stand-alone solutions:
 - _Declarative Three.js components for Vue_ - for easy composing and managing of multipage WebGL assisted SPAs
@@ -22,6 +23,7 @@ and more...
 - _Drums_ - especially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
 - _Mechanical keyboards_ - I own <u>Phantom TKL</u> (aluminum case, MX browns, GMK stabs, MT3 Godspeed) and <u>kbd.fans 5 degree 60%</u> (cyan aluminum case, Kiwis, cyan C3 Equalz stabs, DSA Drifter)
 - _Art collecting_ - physical artbooks, magazines, prints, stickers and NFTs
+- _Cryptography_ - openssl, wolfssl, NIST post-quantum
 - _Ping Pong_
 
 [![@luty's Holopin board](https://holopin.io/api/user/board?user=luty)](https://holopin.io/@luty)
