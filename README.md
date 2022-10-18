@@ -6,15 +6,16 @@
 - _Design (PS, AI, AE)_
 - _Javascript/HTML/CSS (Typescript/Pug/Less)_
 - _Build tools (Closure Compiler, Gulp, Webpack, Vite)_
+- _Frameworks & Libs (Vue3, React Native)_
 
-🔭 I am currently working on version 6 of [zeokku.com](https://zeokku.com) webpage, which includes lots of stand-alone solutions:
+🔭 I am currently working on new version 6 of [zeokku.com](https://zeokku.com) webpage, which includes lots of stand-alone solutions:
 - _Declarative Three.js components for Vue_ - for easy composing and managing of multipage WebGL assisted SPAs
 - _Media assets optimization pipeline_ - converting images and videos into modern formats with size analysis
 - _GSAP directives for Vue_ - for ease of animating elements without writing too much code
 
 and more...
 
-🌱 Next points of study:
+🌱 Current and next points of study:
 - _Augmented Reality on Web_
 - _Unreal Engine 5+_
 - _Blender_
