@@ -8,7 +8,7 @@
 - _Build tools (Closure Compiler, Gulp, Webpack, Vite)_
 - _Frameworks & Libs (Vue 3, React Native)_
 
-🔭 I am currently working on new version 6 of [zeokku.com](https://zeokku.com) webpage, which includes lots of stand-alone solutions:
+🔭 I am currently working on the new upcoming version 6 of my [zeokku.com](https://zeokku.com) webpage, which also includes lots of stand-alone solutions I had to develop:
 - _Declarative Three.js components for Vue_ - for easy composing and managing of multipage WebGL assisted SPAs
 - _Media assets optimization pipeline_ - converting images and videos into modern formats with size analysis
 - _GSAP directives for Vue_ - for ease of animating elements without writing too much code
@@ -23,10 +23,10 @@ and more...
 ✨ Interests:
 - 🥁 _Drums_ - especially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
 - ⌨️ _Mechanical keyboards_ - I own two keyboards
-    - <u>Phantom TKL</u> - Silver aluminum case, MX brown switches, GMK stabs, MT3 Godspeed caps
-    - <u>kbd.fans 5 degree 60%</u> - Cyan aluminum case, C3 Equalz Kiwi switches, cyan C3 Equalz stabs, DSA Drifter caps
+    - <u>Phantom TKL</u> - Silver YMDK aluminum case, Phantom PCB, Aluminum plate, MX brown switches, GMK stabs, MT3 Godspeed caps
+    - <u>KBDfans 5 degree 60%</u> - Cyan aluminum case, DZ60 RGB V2 Hotswap PCB, Brass plate, C3 Equalz Kiwi switches, Cyan C3 Equalz stabs with golden wires, DSA Drifter caps
 - 🖼️ _Art collecting_ - physical artbooks, magazines, prints, stickers and NFTs
-- 🌈 _Crypto_ - both cryptography and crypto currencies
+- 💎 _Crypto_ - both cryptography and crypto currencies
 - 🏓 _Ping Pong_
 - 🎱 _Pool_
 - 🍃 _Eco friendliness_
