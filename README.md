@@ -23,6 +23,7 @@ and more...
 - _Neural networks and AI_
 - _Unreal Engine 5+_
 - _Blender_
+- _Own human-readable data-serialization language_
 
 ✨ Interests:
 - 🥁 _Drums_ - especially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
