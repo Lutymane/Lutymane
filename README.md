@@ -5,10 +5,10 @@
 - _Game development (Gamemaker)_
 - _Design (PS, AI, AE)_
 - _Frontend (Typescript, Pug, Less)_
+- _Frameworks & Libs (Vue 3, React Native, Three.js, GSAP)_
 - _Backend (Apache, PHP, MySQL)_
 - _Build tools (Closure Compiler, Gulp, Webpack, Vite)_
-- _Frameworks & Libs (Vue 3, React Native, Three.js, GSAP)_
-- _Occasional security research ([1](https://hackerone.com/lt_1/?type=user), [2](https://www.holopin.io/userbadge/cl8lf7mkw029809meb0faqzzm))_
+- _Occasional security research ([1](https://hackerone.com/lt_1/?type=user), [2](https://www.holopin.io/userbadge/cl8lf7mkw029809meb0faqzzm)<!-- [3](link to steam cards market xss hack) -->)_
 - _Cryptography (openssl, wolfssl, NIST Post-quantum)_
 
 🔭 I am currently working on the new upcoming version 6 of my [zeokku.com](https://zeokku.com) webpage, which also includes lots of stand-alone solutions I had to develop:
