@@ -19,9 +19,10 @@
 and more...
 
 🌱 Current and next points of study:
-- _Augmented Reality on Web_
+- _Augmented Reality_
 - _Unreal Engine 5+_
 - _Blender_
+- _Neural networks and AI_
 
 ✨ Interests:
 - 🥁 _Drums_ - especially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
