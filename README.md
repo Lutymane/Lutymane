@@ -20,16 +20,16 @@ and more...
 
 🌱 Current and next points of study:
 - _Augmented Reality_
+- _Neural networks and AI_
 - _Unreal Engine 5+_
 - _Blender_
-- _Neural networks and AI_
 
 ✨ Interests:
 - 🥁 _Drums_ - especially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
 - ⌨️ _Mechanical keyboards_ - I own two keyboards
     - <u>Phantom TKL</u> - Silver YMDK aluminum case, Phantom PCB, Aluminum plate, MX brown switches, GMK stabs, MT3 Godspeed caps
     - <u>KBDfans 5 degree 60%</u> - Cyan aluminum case, DZ60 RGB V2 Hotswap PCB, Brass plate, C3 Equalz Kiwi switches, Cyan C3 Equalz stabs with golden wires, DSA Drifter caps
-- 🖼️ _Art collecting_ - physical artbooks, magazines, prints, stickers and NFTs
+- 🖼️ _Art collecting_ - physical artbooks, magazines, prints, stickers and [NFTs](https://oncyber.io/-)
 - 💎 _Crypto_ - both cryptography and crypto currencies
 - 🏓 _Ping Pong_
 - 🎱 _Pool_
