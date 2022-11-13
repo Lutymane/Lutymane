@@ -5,13 +5,15 @@
 - _Game development (Gamemaker)_
 - _Design (PS, AI, AE)_
 - _Frontend (Typescript, Pug, Less)_
-- _Frameworks & Libs (Vue 3, React Native, Three.js, GSAP)_
+    - _Frameworks & Libs (Vue 3, React Native, Three.js, GSAP)_
 - _Backend (Apache, PHP, MySQL)_
 - _Build tools (Closure Compiler, Gulp, Webpack, Vite)_
 - _Occasional security research ([1](https://hackerone.com/lt_1/?type=user), [2](https://www.holopin.io/userbadge/cl8lf7mkw029809meb0faqzzm)<!-- [3](link to steam cards market xss hack) -->)_
 - _Cryptography (openssl, wolfssl, NIST Post-quantum)_
 
 🔭 I am currently working on the new upcoming version 6 of my [zeokku.com](https://zeokku.com) webpage, which also includes lots of stand-alone solutions I had to develop:
+- _[Vue Static CSS Modules plugin for Vite](https://github.com/zeokku/vite-plugin-vue-static-css-modules)_ - for ultimate handling of CSS modules
+- _[Vue Smoothie](https://github.com/zeokku/vue-smoothie)_ - smooth scrolling Vue components
 - _Declarative Three.js components for Vue_ - for easy composing and managing of multipage WebGL assisted SPAs
 - _Media assets optimization pipeline_ - converting images and videos into modern formats with size analysis
 - _GSAP directives for Vue_ - for ease of animating elements without writing too much code
