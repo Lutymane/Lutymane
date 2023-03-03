@@ -1,4 +1,4 @@
-### Shalom 👋
+### Greetings 👋
 
 ⚡ I'm a developer with experience in 
 - _Frontend (Typescript, Pug, Less)_
