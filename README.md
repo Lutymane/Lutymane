@@ -42,6 +42,8 @@ and more...
 
 [![@luty's Holopin board](https://holopin.io/api/user/board?user=luty)](https://holopin.io/@luty)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lutymane&show_icons=true&theme=transparent)
+
 <!--
 **Lutymane/Lutymane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
