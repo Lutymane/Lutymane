@@ -31,15 +31,17 @@ and more...
 - _Own human-readable data-serialization language_
 
 ✨ Interests:
+- 🏭 _Urban exploration_ - exploring old abandoned places and buildings
+- 🖼️ _Art collecting_ - physical artbooks, magazines, prints, stickers and [NFTs](https://oncyber.io/-)
+- 🍃 _Eco friendliness_ - recycling aluminum cans and plastic bottles, refusing straws at fast food restaurants, reusing other plastic as much as possible
 - 🥁 _Drums_ - especially odd time signatures, polyrhythms, polymeters, nested tuples - jazz core
 - ⌨️ _Mechanical keyboards_ - I own two keyboards
     - <u>Phantom TKL</u> - Silver YMDK aluminum case, Phantom PCB, Aluminum plate, MX brown switches, GMK stabs, MT3 Godspeed caps
     - <u>KBDfans 5 degree 60%</u> - Cyan aluminum case, DZ60 RGB V2 Hotswap PCB, Brass plate, C3 Equalz Kiwi switches, Cyan C3 Equalz stabs with golden wires, DSA Drifter caps
-- 🖼️ _Art collecting_ - physical artbooks, magazines, prints, stickers and [NFTs](https://oncyber.io/-)
 - 💎 _Crypto_ - both cryptography and crypto currencies
+- 📷 _Photography_
 - 🏓 _Ping Pong_
 - 🎱 _Pool_
-- 🍃 _Eco friendliness_ - recycling aluminum cans and plastic bottles, refusing straws at fast food restaurants, reusing other plastic as much as possible
 
 [![@luty's Holopin board](https://holopin.io/api/user/board?user=luty)](https://holopin.io/@luty)
 
