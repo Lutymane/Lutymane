@@ -14,11 +14,12 @@
 <!-- - Chrome, safari and firefox bug reports -->
 
 🔭 Check out my brand new version 6 of my portfolio webpage [zeokku.com](https://zeokku.com), which includes lots of stand-alone solutions I had to develop:
-- _[Vue Static CSS Modules plugin for Vite](https://github.com/zeokku/vite-plugin-vue-static-css-modules)_ - for ultimate handling of CSS modules
+- _[Vue CSS Modules plugin for Vite](https://github.com/zeokku/vite-plugin-vue-css-modules)_ - for ultimate handling of CSS modules
 - _[Vue Smoothie](https://github.com/zeokku/vue-smoothie)_ - smooth scrolling Vue components
-- _[Declarative Three.js components for Vue](https://zeokku.com/about#vue-trident)_ - for easy composing and managing of multipage WebGL assisted SPAs
 - _[Media assets optimization pipeline](https://zeokku.com/about#media-optimization-pipeline)_ - converting images and videos into modern formats with size analysis
-- _[GSAP directives for Vue](https://zeokku.com/about#gsap-+-vue)_ - for ease of animating elements without writing too much code
+- _[GSAP directives for Vue](https://github.com/zeokku/vue-gsap)_ - for ease of animating elements without writing too much code
+- _[Declarative Three.js components for Vue](https://zeokku.com/about#vue-trident)_ - for easy composing and managing of multipage WebGL assisted SPAs
+
 
 and more...
 
