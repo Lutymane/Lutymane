@@ -1,34 +1,22 @@
 ### Greetings 👋
 
 ⚡ I'm a developer with experience in 
-- [x] _Frontend (Typescript, Pug, SCSS)_
-    - _Frameworks & Libs (Vue 3, React Native, Three.js, GSAP)_
+- [x] _Frontend (Typescript, Pug, SCSS, Vue, React Native, Three.js, GSAP)_
 - [x] _Backend (Apache, PHP, MySQL)_
-- [x] _Game development (Gamemaker)_
-- [x] _Design (PS, AI, AE, Midjourney)_
 - [x] _Build tools (Vite, Webpack, Gulp, Closure Compiler)_
+- [x] _Game development (Gamemaker)_
+- [x] _Design (PS, AI, AE)_
 - [x] _C/++/#_
 - [x] _Occasional security research ([1](https://hackerone.com/lt_1/?type=user), [2](https://www.holopin.io/userbadge/cl8lf7mkw029809meb0faqzzm), [3](https://zeokku.com/article/steamsupply-xss-hack))_
 - [x] _Reported 2 Chrome bugs ([1](https://bugs.chromium.org/p/chromium/issues/detail?id=1222734), [2](https://bugs.chromium.org/p/chromium/issues/detail?id=1311813)) and found so many in Firefox and Safari that I can't find time to finally report them all_ 
 - [x] _Cryptography (openssl, wolfssl, NIST Post-quantum)_
 <!-- - Chrome, safari and firefox bug reports -->
 
-🔭 Check out my brand new version 6 of my portfolio webpage [zeokku.com](https://zeokku.com), which includes lots of stand-alone solutions I had to develop:
-- _[Vue CSS Modules plugin for Vite](https://github.com/zeokku/vite-plugin-vue-css-modules)_ - for ultimate handling of CSS modules
-- _[Vue Smoothie](https://github.com/zeokku/vue-smoothie)_ - smooth scrolling Vue components
-- _[Media assets optimization pipeline](https://zeokku.com/about#media-optimization-pipeline)_ - converting images and videos into modern formats with size analysis
-- _[GSAP directives for Vue](https://github.com/zeokku/vue-gsap)_ - for ease of animating elements without writing too much code
-- _[Declarative Three.js components for Vue](https://zeokku.com/about#vue-trident)_ - for easy composing and managing of multipage WebGL assisted SPAs
-
-
-and more...
-
 🌱 Current and next points of study:
 - _Augmented Reality_
 - _Neural networks and AI_
 - _Unreal Engine 5+_
 - _Blender_
-- _Own human-readable data-serialization language_
 
 ✨ Interests:
 - 🏭 _Urban exploration_ - exploring old abandoned places and buildings
