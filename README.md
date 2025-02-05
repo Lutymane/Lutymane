@@ -1,4 +1,4 @@
-### Greetings 👋
+### Greetings :trollface:
 
 ⚡ I'm a developer with experience in 
 - [x] _Frontend (Typescript, Pug, SCSS, Vue, React Native, Three.js, GSAP)_
