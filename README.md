@@ -1,7 +1,5 @@
 ### Greetings :trollface:
 
-<br>
-
 <b>:godmode: I'm a developer with experience in...</b>
 
 <sup>(you can expand those)</sup>
